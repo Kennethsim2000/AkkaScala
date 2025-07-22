@@ -1,3 +1,5 @@
+package simpleExample
+
 import akka.actor.{ActorSystem, Props}
 
 object SimpleActorExample extends App {

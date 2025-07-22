@@ -1,3 +1,5 @@
+package countdown
+
 import akka.actor.{ActorRef, ActorSystem, Props}
 
 object ActorCountdown extends App {

@@ -1,0 +1,5 @@
+package askpattern
+
+class AskPatternActor {
+
+}

@@ -1,3 +1,5 @@
+package simpleExample
+
 import akka.actor.Actor
 
 class SimpleActor extends Actor{

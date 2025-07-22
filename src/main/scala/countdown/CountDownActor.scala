@@ -1,5 +1,7 @@
-import ActorCountdown.{Countdown, StartCounting}
-import akka.actor.{Actor, ActorRef}
+package countdown
+
+import akka.actor.Actor
+import countdown.ActorCountdown.{Countdown, StartCounting}
 
 class CountDownActor extends Actor{
     // stores the time to countdown and a reference to the actor you are going to be counting with
